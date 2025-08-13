@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/ArcticEH/SlicesVersion/main/Slices-Installer.dmg" length="1635775" type="application/octet-stream" sparkle:edSignature="21tqmDe/vWUmpVCUNcV7Hkxt6MWMx8cvDsuCTCGYJ7DNOl4/9DVgaL0Apf/WA2nbs8J+Ko2BAuTG9pZhg2JiAQ=="/>
+            <enclosure url="https://github.com/ArcticEH/SlicesVersion/releases/download/v0.2-alpha/Slices-Installer.dmg" length="1635775" type="application/octet-stream" sparkle:edSignature="21tqmDe/vWUmpVCUNcV7Hkxt6MWMx8cvDsuCTCGYJ7DNOl4/9DVgaL0Apf/WA2nbs8J+Ko2BAuTG9pZhg2JiAQ=="/>
         </item>
     </channel>
 </rss>
