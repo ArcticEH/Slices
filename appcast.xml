@@ -3,12 +3,12 @@
     <channel>
         <title>AppleSlices</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Tue, 12 Aug 2025 21:13:18 -0400</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.2</title>
+            <pubDate>Tue, 12 Aug 2025 22:39:24 -0400</pubDate>
+            <sparkle:version>0.2</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ArcticEH/SlicesVersion/releases/download/v0.2-alpha/Slices-Installer.dmg" length="1635775" type="application/octet-stream" sparkle:edSignature="21tqmDe/vWUmpVCUNcV7Hkxt6MWMx8cvDsuCTCGYJ7DNOl4/9DVgaL0Apf/WA2nbs8J+Ko2BAuTG9pZhg2JiAQ=="/>
+            <enclosure url="https://github.com/ArcticEH/SlicesVersion/releases/download/v0.2-alpha/Slices-Installer.dmg" length="1636138" type="application/octet-stream" sparkle:edSignature="H6Ze/zGiR8r9d5/z4aWcd9Wlek4gqY7T+4DnhaNa38blqy96R7XmDu3IEX5Q+jZGTT9e3xc9mPGYwRORO8PmBA=="/>
         </item>
     </channel>
 </rss>
