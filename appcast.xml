@@ -3,20 +3,12 @@
     <channel>
         <title>AppleSlices</title>
         <item>
-            <title>0.4</title>
-            <pubDate>Sat, 23 Aug 2025 15:58:06 -0400</pubDate>
-            <sparkle:version>0.4</sparkle:version>
-            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <title>0.5</title>
+            <pubDate>Sun, 28 Sep 2025 11:57:39 -0400</pubDate>
+            <sparkle:version>0.5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ArcticEH/SlicesVersion/releases/download/v0.4-alpha/Slices-Installer.dmg" length="1647361" type="application/octet-stream" sparkle:edSignature="boQKHzv+nbHwYqLxn3JjI/qvvtnbNq2gottoFRyn4xRbXcsiHJ+A7yrqiW/h2a2tcuKEj3ObsTuhnyGuLhpxAg=="/>
-        </item>
-        <item>
-            <title>0.3</title>
-            <pubDate>Tue, 12 Aug 2025 22:50:44 -0400</pubDate>
-            <sparkle:version>0.3</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ArcticEH/SlicesVersion/releases/download/v0.3-alpha/Slices-Installer.dmg" length="1633977" type="application/octet-stream" sparkle:edSignature="NPKeMoWUxAfR0Zxt6BS5qxe+ujDZLdtQbnTDhTR5AP+ehBCD9qHQqD8J778uvQ5MF0RptkKowIPU8V0T3uqtBQ=="/>
+            <enclosure url="https://github.com/ArcticEH/SlicesVersion/releases/tag/v0.5-beta" length="2115302" type="application/octet-stream" sparkle:edSignature="y+2jtV3SPOlcLzSb4fHJHuEzEsEA+CXgSDrbQOxVpY4SUfjIPwBYD8w4Pg8IbGNfGwsNmmSLhCpw8jgyBix1DQ=="/>
         </item>
     </channel>
 </rss>
