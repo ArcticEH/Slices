@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>AppleSlices</title>
+        <title>Slices</title>
         <item>
-            <title>0.5</title>
-            <pubDate>Sun, 28 Sep 2025 11:57:39 -0400</pubDate>
-            <sparkle:version>0.5</sparkle:version>
-            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <title>0.6</title>
+            <pubDate>Sun, 28 Sep 2025 12:27:41 -0400</pubDate>
+            <sparkle:version>0.6</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ArcticEH/SlicesVersion/releases/tag/v0.5-beta" length="2115302" type="application/octet-stream" sparkle:edSignature="y+2jtV3SPOlcLzSb4fHJHuEzEsEA+CXgSDrbQOxVpY4SUfjIPwBYD8w4Pg8IbGNfGwsNmmSLhCpw8jgyBix1DQ=="/>
+            <enclosure url="https://github.com/ArcticEH/SlicesVersion/releases/download/v0.6-beta/Slices-Installer.dmg" length="2115564" type="application/octet-stream" sparkle:edSignature="9b+IToDshNkzI4dtoBlzJcCWUQoY5gOu6wyvYtU42t5fZcx9wCVdsjKA36wetnncRBVyXRGh/ezBeMMFEjkjBQ=="/>
         </item>
     </channel>
 </rss>
